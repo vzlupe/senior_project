@@ -1,4 +1,5 @@
 # Senior Project
+Welcome, this is the GitHub repository for Victor Zuniga's senior CS project. The aim of this project is to create a network of Raspberry Pis operating as IoT hubs, connecting them in a blockchain network using Hyperledger Fabric, and implementing logic to allow for fault tolerance amongst the hubs.
 
 ## Setup
 These are the steps to create the base system on each RPi. I have had a number of issues pop up while installing everything.
